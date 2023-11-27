@@ -1,0 +1,54 @@
+# /imagGame/question37.png
+* ¿Quién ideó las leyes de la herencia genética?
++ Gregor Mendel
+- Karen Materizza
+- Song Kim
+- Camilo Suárez
+# /imagGame/question38.png
+* ¿Cuál es el significado de "litosfera"?
++ Lithos,y sphaira (piedra-esfera)
+- Litos y skaira (piedra-flotante)
+- Linthos y fera (cielo-arriba)
+- Litos y skaira (litio-húmedo)
+# /imagGame/question39.png
+* ¿Cómo se llama el estudio de los hongos?
+- Talasología
+- Tanatología
+- Quirología
++ Micología
+# /imagGame/question40.png
+* "Al despertar Gregorio Samsa una mañana, tras un sueño intranquilo, se encontró en su cama convertido en un monstruoso insecto". ¿De qué libro es esta cita?
+- "Insectos"
++ "La Metamorfosis"
+- "La Historia de Gregorio Samsa"
+- "Las Metamorfosis"
+# /imagGame/question41.png
+* ¿Cómo se llamaba el Cid Campeador?
++ Rodrigo Díaz de Vivar
+- Cid González del Rocío
+- José Fernández Machaco
+- Juan Guitierrez Cortés
+# /imagGame/question42.png
+* ¿Cuál fue el primer club de futbol oficial en el Reino Unido?
+- Notts County Football Club
++ Sheffield
+- Hallam FC
++ Munich
+# /imagGame/question43.png
+* ¿Cuál es el nombre de la fiesta donde los ingleses se visten de verde y recogen flores?
+- Easter Day
++ May Day
+- St. Patrick's Day
+- April Fool’s Day
+# /imagGame/question44.png
+* 9*N es igual a 108. ¿Cuánto es N?
+- 107
++ 108
+- 109
+- 110
+# /imagGame/question45.png
+* ¿Qué país colonial tiene más copas del mundo?
+- Francia
+- España
++ Alemania
+- Brasil

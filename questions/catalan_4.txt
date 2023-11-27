@@ -1,0 +1,54 @@
+# /imagGame/question37.png
+* Qui va idear les lleis de l'herència genètica?
++ Gregor Mendel
+- Karen Materizza
+- Song Kim
+- Camilo Suárez
+# /imagGame/question38.png
+* Quin és el significat de "litosfera"?
++ Lithos, i sphaira (pedra-esfera)
+- Litos i skaira (pedra-flotant)
+- Linthos i fira (cel-a dalt)
+- Litos i skaira (liti-humit)
+# /imagGame/question39.png
+* Com es diu l'estudi dels fongs?
+- Talasologia
+- Tanatologia
+- Quirologia
++ Micologia
+# /imagGame/question40.png
+* "Al despertar Gregorio Samsa un matí, després d'un somni intranquil, es va trobar al seu llit convertit en un monstruós insecte". De quin llibre és aquesta cita?
+- "Insectes"
++ "La Metamorfosi"
+- "La Història de Gregorio Samsa"
+- "Les Metamorfosis"
+# /imagGame/question41.png
+* Com es deia el Cid Campeador?
++ Rodrigo Díaz de Vivar
+- Cid González del Rocío
+- José Fernández Machaco
+- Juan Guitierrez Cortés
+# /imagGame/question42.png
+* Quin va ser el primer club de futbol oficial al Regne Unit?
+- Notts County Football Club
++ Sheffield
+- Hallam FC
++ Munic
+# /imagGame/question43.png
+* Quin és el nom de la festa on els anglesos es vesteixen de verd i recullen flors?
+- Easter Day
++ May Day
+- St. Patrick's Day
+- April Fool's Day
+# /imagGame/question44.png
+* 9*N és igual a 108. Quant és N?
+- 107
++ 108
+- 109
+- 110
+# /imagGame/question45.png
+* Quin país colonial té més copes del món?
+- França
+- Espanya
++ Alemanya
+- Brasil

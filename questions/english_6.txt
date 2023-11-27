@@ -1,0 +1,54 @@
+# /imagGame/question53.png
+* What is the name of the smallest bone in the human body?
+- Echiphiliquedes
++ Stape
+- Feebula
+- Sternocleidomastoid
+# /imagGame/question54.png
+* When we talk about a person with acrophobia, what do we mean?
+- Fear of spiders
++ Fear of heights
+- Fear of stunts
+- Fear of people
+# /imagGame/question55.png
+* How many valves does the human heart have?
++ Four
+- Five
+- Six
+- Three
+# /imagGame/question56.png
+*How many elements are there in the periodic table?
++ 118
+- 117
+- 119
+- 120
+# /imagGame/question57.png
+*What does a Geiger counter measure?
+- The liters of water dropped per square meter
+- People's tension
+- Light years from one galaxy to another
++ Radiation
+# /imagGame/question58.png
+* In what year did Elizabeth ascend the throne?
+- 1959
++ 1952
+- 1954
+- 1960
+# /imagGame/question59.png
+* Who was Ada Lovelace?
+- Policy
+- Scientific
++ Mathematics
+- Chemistry
+# /imagGame/question60.png
+* Where is Buckingham Palace located?
+- France
++ England
+- Italy
+- South Africa.
+# /imagGame/question61.png
+* "O Romeo, Romeo! Wherefore art thou Romeo? Deny thy father and refuse thy name, or if thou wilt not, be but sworn my love, and I'll no longer be a Capulet". Who wrote this?
++ Shakespeare
+- Zorrilla
+- Quevedo
+- Cervantes

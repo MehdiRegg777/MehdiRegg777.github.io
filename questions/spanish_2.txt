@@ -1,0 +1,54 @@
+# /imagGame/question10.png
+* ¿Cómo es la bandera del Reino Unido?
+- Rosa, azul y rojo
++ Azul Blanco Y Rojo
+- Azul, Negro, Rojo
+- Amarillo Rojo Azul
+# /imagGame/question11.png
+* ¿Cómo se llamaba la esposa de Ulises, el personaje de la Odisea creado por Homero?
+- Lisístrata
+- Claudia
++ Penélope
+- Sofía
+# /imagGame/question12.png
+* ¿Quién es el presidente del Reino Unido?
+- Donald Trump
+- Pedro Sánchez
+- Dina Boluarte
++ Boris Johnson
+# /imagGame/question13.png
+* ¿Cuánto duró aproximadamente la guerra entre Palestina e Israel?
+- 2 meses
+- 7 días
+- 2 años
++ 11 Días
+# /imagGame/question14.png
+* ¿Qué filósofo alemán escribió sobre la teoría del superhombre?
+- Shinji Ikari
++ Friedrich Nietzche
+- Haruki Murakami
+- Harper Lee
+# /imagGame/question15.png
+* ¿Cuántas personas murieron en la guerra entre Palestina e Israel?
+- 3 personas
+- La mitad de la ciudad
+- 200 personas
++ 44 personas
+# /imagGame/question16.png
+* ¿Cuántas sílabas forman un haikú?
+- Tres versos carentes de rima de 7, 7 y 5 sílabas.
++ Tres versos carentes de rima de 5, 7 y 5 sílabas.
+- Tres versos carentes de rima de 7, 7 y 5 sílabas.
+- Tres versos carentes de rima de 5, 5 y 7 sílabas.
+# /imagGame/question17.png
+* De acuerdo con la leyenda, ¿quiénes fundaron Roma?
++ Rómulo y Remo
+- Caesar y Cicerón
+- Hércules y Creonte
+- Alejandro Magno y su padre
+# /imagGame/question18.png
+* ¿Cuántos territorios conquistó el Imperio Británico?
++ 5 territorios
+- 8 territorios
+- 10 territorios
+- 12 territorios

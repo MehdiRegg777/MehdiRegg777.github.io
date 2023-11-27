@@ -1,0 +1,54 @@
+# /imagGame/question10.png
+* Com és la bandera del Regne Unit?
+- Rosa, blau i vermell
++ Blau Blanc i Vermell
+- Blau, Negre, Vermell
+- Groc Vermell Blau
+# /imagGame/question11.png
+* Com es deia l'esposa d'Ulisses, el personatge de l'Odissea creat per Homer?
+- Lisístrata
+- Claudia
++ Penèlope
+- Sofia
+# /imagGame/question12.png
+* Qui és el president del Regne Unit?
+- Donald Trump
+- Pedro Sánchez
+- Dina Boluarte
++ Boris Johnson
+# /imagGame/question13.png
+* Quant va durar aproximadament la guerra entre Palestina i Israel?
+- 2 mesos
+- 7 dies
+- 2 anys
++ 11 Dies
+# /imagGame/question14.png
+* Quin filòsof alemany va escriure sobre la teoria del superhome?
+- Shinji Ikari
++ Friedrich Nietzche
+- Haruki Murakami
+- Harper Lee
+# /imagGame/question15.png
+* Quantes persones van morir a la guerra entre Palestina i Israel?
+- 3 persones
+- La meitat de la ciutat
+- 200 persones
++ 44 persones
+# /imagGame/question16.png
+* Quantes síl·labes formen un haikú?
+- Tres versos sense rima de 7, 7 i 5 síl·labes.
++ Tres versos sense rima de 5, 7 i 5 síl·labes.
+- Tres versos sense rima de 7, 7 i 5 síl·labes.
+- Tres versos sense rima de 5, 5 i 7 síl·labes.
+# /imagGame/question17.png
+* D'acord amb la llegenda, qui van fundar Roma?
++ Ròmul i Rem
+- Caesar i Ciceró
+- Hèrcules i Creont
+- Alexandre el Gran i el seu pare
+# /imagGame/question18.png
+* Quants territoris va conquistar l'Imperi Britànic?
++ 5 territoris
+- 8 territoris
+- 10 territoris
+- 12 territoris

@@ -1,0 +1,54 @@
+# /imagGame/question53.png
+* ¿Cómo se llama el hueso más pequeño del cuerpo humano?
+- Ecifiliquédo
++ Estribo
+- Peroné
+- Esternocleidomastoideo
+# /imagGame/question54.png
+* Cuando se habla de una persona con acrofobia, ¿a qué nos referimos?
+- Miedo a las arañas
++ Miedo a las alturas
+- Miedo a las acrobacias
+- Miedo a la gente
+# /imagGame/question55.png
+* ¿Cuántas válvulas tiene el corazón humano?
++ Cuatro
+- Cinco
+- Seis
+- Tres
+# /imagGame/question56.png
+* ¿Cuántos elementos hay en la tabla periódica?
++ 118
+- 117
+- 119
+- 120
+# /imagGame/question57.png
+* ¿Qué mide un contador Geiger?
+- Los litros de agua caídos por metro cuadrado
+- La tensión de las personas
+- Los años luz de una galaxia con otra
++ La radiación
+# /imagGame/question58.png
+* ¿En qué año Isabel subió al trono?
+- 1959
++ 1952
+- 1954
+- 1960
+# /imagGame/question59.png
+* ¿Quién era Ada Lovelace?
+- Política
+- Científica
++ Matemática
+- Química
+# /imagGame/question60.png
+* ¿Dónde se encuentra el palacio de Buckingham?
+- Francia
++ Inglaterra
+- Italia
+- Sudáfrica.
+# /imagGame/question61.png
+* "¡Oh Romeo, Romeo! ¿Dónde te encuentras Romeo? Rechaza a tu padre y rechaza tu nombre; o, si te podrirás, te juro mi amor y así yo no seré una Capulet". ¿Quién escribió esto?
++ Shakespeare
+- Zorrilla
+- Quevedo
+- Cervantes
